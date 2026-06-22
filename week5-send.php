@@ -6,11 +6,11 @@
 <body>
     <form action="week5-receive.php" method="get ">
         <label>username</label>
-        <input  type="text" name="userName">
+        <input  type="text" name="userName" readonly>
 
     <br>
         <label>password</label>
-        <input type="password" name="userPass">
+        <input type="password" name="userPass" readonly>
 <br>
         <label>email</label>
         <input type="email" name="userEmail">
