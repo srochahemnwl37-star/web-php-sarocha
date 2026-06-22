@@ -32,6 +32,8 @@
         <input type="checkbox" name="userHobby[]" value="อ่านหนังสือ"> อ่านหนังสือ
         <input type="checkbox" name="userHobby[]" value="ฟังเพลง"> ฟังเพลง
 <br>
+        <label>ความคิดเห็น</label>
+        <textarea name="userMsg"></textarea>
 
          <input type="submit" value="ส่งข้อมูล">
 
