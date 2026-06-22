@@ -34,8 +34,10 @@
 <br>
         <label>ความคิดเห็น</label>
         <textarea name="userMsg"></textarea>
+<br>
 
          <input type="submit" value="ส่งข้อมูล">
+         <input type="reset" value="ล้างข้อมูล">
 
 
     </form>
