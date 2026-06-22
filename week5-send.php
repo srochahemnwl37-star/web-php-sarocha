@@ -29,6 +29,7 @@
             <option value="กรุงเทพ">กรุงเทพ</option>
         </select>
 <br>
+        <label>งานอดิเรก</label>
         <input type="checkbox" name="userHobby[]" value="อ่านหนังสือ"> อ่านหนังสือ
         <input type="checkbox" name="userHobby[]" value="ฟังเพลง"> ฟังเพลง
 <br>
