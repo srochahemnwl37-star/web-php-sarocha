@@ -6,14 +6,14 @@
 <body>
     <form action="week5-receive.php" method="get ">
         <label>username</label>
-        <input  type="text" name="userName" required>
+        <input  type="text" name="userName" >
 
     <br>
         <label>password</label>
-        <input type="password" name="userPass" required>
+        <input type="password" name="userPass" >
 <br>
         <label>email</label>
-        <input type="email" name="userEmail" required>
+        <input type="email" name="userEmail">
 <br>
         <label>วันเกิด</label>
         <input type="date" name="userdate">
